@@ -1,4 +1,4 @@
-// dotenv is a module
+// dotenv is a module,require=import
 require('dotenv').config();
 
 const express = require('express');
