@@ -1,3 +1,4 @@
+// dotenv is a module
 require('dotenv').config();
 
 const express = require('express');
